@@ -3,7 +3,6 @@ from Processing import process_monthly_sensor_data
 from Outlier_Detection import detect_outliers
 from Reporting import ReportingModule
 
-
 def main():
     """Runs the Reporting Module and confirms CSV file generation."""
 
